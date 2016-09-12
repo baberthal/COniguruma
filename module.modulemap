@@ -1,0 +1,5 @@
+module COniguruma [system] {
+  header "oniguruma.h"
+  link "onig"
+  export *
+}
